@@ -9,20 +9,23 @@ Database : MySQL
 
 Citizen module :
 <div style="float:right;">
-  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/ba9216f2-b09f-4320-83f4-8285de419b05" height="300px" width="150px">
-  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/4fc66aba-bfe9-44a1-9756-1f78da4028b5" height="300px" width="150px">
-  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/d00a2754-41ee-4afa-b88f-c2f2594cb34b" height="300px" width="150px">
-  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/ef86eae0-aca0-48f0-8354-c4999dee700d" height="300px" width="150px">
-  <img src="https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/0c58aa2a-ccc5-4c8e-816f-5c396b879fa3" height="300px" width="150px">
+  <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/abf11b1e-eb46-487c-96d3-c1dc404b2ee9" height="300px" width="150px">
+  <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/520c4f6f-a04a-4e1d-b764-af930ed9077b" height="300px" width="150px">
+  <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/56c0c082-8a8e-4c39-bcf1-44d7b550f11a" height="300px" width="150px">
+  <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/2135be74-bc1a-42eb-b44a-88b8520dbd49" height="300px" width="150px">
+  <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/d2dcf7dc-6f0d-48a1-84a4-544eb1175f49" height="300px" width="150px">
 </div>
+
 <br>
 Admin module :
 
-![image_2023-06-21_13-23-42](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/4a9f493b-c676-49fe-b4bc-ce91144c502f)
-![image_2023-06-21_13-23-47](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/0419bb81-57ee-4e4b-b4a9-4541c79ad2b3)
-![image_2023-06-21_13-24-11](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/c633236b-11e5-4899-b727-f11d63707992)
-![image_2023-06-21_13-24-28](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/3be0cc32-b6df-461c-ad6e-4ab1088714ef)
-![image_2023-06-21_13-24-40](https://github.com/Manthansoni/Citizen-feedback-system-for-Gujarat-Police/assets/67406041/ef24ab50-333e-4440-b303-3aa9f35b04ec)
+![image_2023-06-21_13-25-05](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/ca3e6857-4bb6-431f-bea3-21d4d7f84afd)
+![image_2023-06-21_13-24-40](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/9e467d25-078f-4139-b8ee-dd1be4d59975)
+![image_2023-06-21_13-24-28](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/1a86a5e4-98dc-41f8-a45e-17d45de5e3d6)
+![image_2023-06-21_13-24-11](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/ad7a6f23-00a8-400b-9d34-c24da8540a19)
+![image_2023-06-21_13-23-47](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/69335b43-8503-4d91-89d8-4bb4a88078c8)
+![image_2023-06-21_13-23-42](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/655c29be-a55c-4777-bafd-ab98ae52cfbc)
+
 
 
 
