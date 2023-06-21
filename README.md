@@ -18,9 +18,14 @@ Citizen module :
 
 <br>
 Admin module :
-![image_2023-06-21_13-23-42](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/655c29be-a55c-4777-bafd-ab98ae52cfbc)<br><br>
-![image_2023-06-21_13-23-47](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/69335b43-8503-4d91-89d8-4bb4a88078c8)<br><br>
-![image_2023-06-21_13-24-11](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/ad7a6f23-00a8-400b-9d34-c24da8540a19)<br><br>
-![image_2023-06-21_13-24-28](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/1a86a5e4-98dc-41f8-a45e-17d45de5e3d6)<br><br>
-![image_2023-06-21_13-24-40](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/9e467d25-078f-4139-b8ee-dd1be4d59975)<br><br>
-![image_2023-06-21_13-25-05](https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/ca3e6857-4bb6-431f-bea3-21d4d7f84afd)
+
+<div style="float:right;">
+  <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/655c29be-a55c-4777-bafd-ab98ae52cfbc" >
+  <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/69335b43-8503-4d91-89d8-4bb4a88078c8" height="300px" width="150px">
+  <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/ad7a6f23-00a8-400b-9d34-c24da8540a19" height="300px" width="150px">
+    <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/1a86a5e4-98dc-41f8-a45e-17d45de5e3d6" height="300px" width="150px">
+  <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/9e467d25-078f-4139-b8ee-dd1be4d59975" height="300px" width="150px">
+  <img src="https://github.com/Dhara438/Citizen-feedback-for-gp/assets/101886520/ca3e6857-4bb6-431f-bea3-21d4d7f84afd" height="300px" width="150px">
+</div>
+
+
